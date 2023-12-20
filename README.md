@@ -25,7 +25,7 @@ Follow the steps below to install the project in your development environment:
 3. **Build the application:**
 
    ```
-   docker build .
+   go build .
    ```
 
 ## Running the Application
